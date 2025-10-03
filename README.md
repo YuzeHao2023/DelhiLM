@@ -22,7 +22,15 @@ This repository implements a **Delphi pipeline**, designed to aggregate expert o
 
 ### Prerequisites
 
-I ran the code as a Colab notebook.
+The code was developed and tested in a Google Colab environment. The following libraries are required:
+- `openai`
+- `httpx`
+- `requests`
+- `numpy`
+- `pandas`
+- `scipy`
+- `seaborn`
+- `matplotlib`
 
 ### Installation
 
@@ -30,7 +38,7 @@ I ran the code as a Colab notebook.
 
 ```bash
 git clone https://github.com/your-username/DelhiLM.git
-cd delphi-pipeline
+cd DelhiLM
 ```
 
 2. Set up environment variables for API keys (e.g., OpenAI, Metaculus):
