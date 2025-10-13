@@ -80,7 +80,7 @@ The notebook, `Delphi_LLMs.ipynb`, includes the following:
 ## Configuration
 
 Adjust parameters in the notebook or configuration files to customize:
-- Number of experts and rounds
+- Number of experts and rounds.
 - Consensus standard deviation threshold.
 - Bayesian prior parameters.
 
