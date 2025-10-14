@@ -61,7 +61,7 @@ export METACULUS_API_URL="your-api-url"
    - Plot variability and Bayesian credible intervals.
 4. **Results Visualization**: Visualize key metrics, including Brier scores and the variability of correct vs incorrect predictions.
 
-## Notebook Structure
+## Notebook Structure...
 
 The notebook, `Delphi_LLMs.ipynb`, includes the following:
 
@@ -90,7 +90,7 @@ The pipeline outputs:
 - Aggregated probabilities and their distributions
 - Calibration metrics (e.g., Brier scores)
 - Comparative analysis of LLM vs human predictions
-- Visualizations for decision-making insights
+- Visualizations for decision-making insights.
 
 ## Contributing
 
