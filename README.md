@@ -90,7 +90,7 @@ The pipeline outputs:
 - Aggregated probabilities and their distributions
 - Calibration metrics (e.g., Brier scores)
 - Comparative analysis of LLM vs human predictions
-- Visualizations for decision-making insights
+- Visualizations for decision-making insights.
 
 ## Contributing
 
