@@ -87,7 +87,7 @@ Adjust parameters in the notebook or configuration files to customize:
 ## Results
 
 The pipeline outputs:
-- Aggregated probabilities and their distributions
+- Aggregated probabilities and their distributions.
 - Calibration metrics (e.g., Brier scores)
 - Comparative analysis of LLM vs human predictions
 - Visualizations for decision-making insights.
