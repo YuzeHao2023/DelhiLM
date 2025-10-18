@@ -41,7 +41,7 @@ git clone https://github.com/your-username/DelhiLM.git
 cd DelhiLM
 ```
 
-2. Set up environment variables for API keys (e.g., OpenAI, Metaculus):
+2. Set up the environment variables for API keys (e.g., OpenAI, Metaculus):
 
 ```bash
 export OPENAI_API_KEY="your-api-key"
