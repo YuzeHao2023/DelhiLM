@@ -1,5 +1,7 @@
 # Delphi Pipeline
 
+[English](README.md) | [中文](README_zh.md)
+
 This repository implements a **Delphi pipeline**, designed to aggregate expert opinions through iterative rounds of elicitation, leveraging large language models (LLMs). This implementation integrates probabilistic reasoning, scenario analysis, and Bayesian updates to support consensus-building for complex decision-making.
 
 ## Features
