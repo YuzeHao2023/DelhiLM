@@ -1,3 +1,5 @@
+![](asserts/logo-delhilm.png)
+
 # Delphi Pipeline
 
 [English](README.md) | [中文](README_zh.md)
