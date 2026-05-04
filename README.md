@@ -23,7 +23,7 @@ This repository implements a **Delphi pipeline**, designed to aggregate expert o
 - **Research**: Study the reliability and calibration of expert predictions versus LLM-based forecasting.
 
 ## Getting Started
-
+ 
 ### Prerequisites
 
 The code was developed and tested in a Google Colab environment. The following libraries are required:
